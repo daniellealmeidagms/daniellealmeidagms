@@ -1,4 +1,4 @@
 - 😊 Hi, I’m Danielle Almeida Gomes Carvalho
-- 🎓 I'm a Artificial Intelligence ressearcher at Federal Institute of Goiás, Brazil
+- 🎓 I'm an Artificial Intelligence ressearcher at Federal Institute of Goiás, Brazil
 - 💻 I currently develop Machine Learning models with Python and cross-platform applications in Flutter/Dart + Firebase
 - 📧 Contact: daniellealmeidagms@gmail.com
