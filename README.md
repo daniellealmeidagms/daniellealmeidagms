@@ -1,4 +1,7 @@
 - 😊 Hi, I’m Danielle Almeida Gomes Carvalho
 - 🎓 I'm an Artificial Intelligence ressearcher at Federal Institute of Goiás, Brazil
-- 💻 I currently develop Machine Learning models with Python and cross-platform applications in Flutter/Dart + Firebase
+- 💻 I currently develop: 
+- 1) Machine Learning models with Python
+- 2) Cross-platform applications in Flutter/Dart + Firebase
+- 3) Backend applications in API RESTful pattern with NodeJS + Express + Typescript + TypeORM + Relational Databases (SQL)
 - 📧 Contact: daniellealmeidagms@gmail.com
