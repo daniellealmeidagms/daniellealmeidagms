@@ -1,4 +1,7 @@
-- 😊 Hi, I’m Danielle Almeida Gomes Carvalho
+- 👩‍💼 Hi, I’m Danielle Almeida Gomes Carvalho
+- 💼 I currently work at:
+- 1) National Commercial Apprenticeship Service (SENAC Goiás) as Professional Education Instructor
+- 2) Federal Institute of Goiás (IFG) as Student Assistant
 - 🎓 I'm an Artificial Intelligence ressearcher at Federal Institute of Goiás, Brazil
 - 💻 I currently develop: 
 - 1) Machine Learning models with Python
