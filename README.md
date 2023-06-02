@@ -1,10 +1,8 @@
 - 👩‍💼 Hi, I’m Danielle Almeida Gomes Carvalho
-- 💼 I currently work at:
-- 1) National Commercial Apprenticeship Service (SENAC Goiás) as Professional Education Instructor
-- 2) Federal Institute of Goiás (IFG) as Student Assistant
+- 💼 I currently work at National Commercial Apprenticeship Service (SENAC Goiás) as Professional Education Instructor
 - 🎓 I'm an Artificial Intelligence ressearcher at Federal Institute of Goiás, Brazil
 - 💻 I currently develop: 
 - 1) Machine Learning models with Python
-- 2) Cross-platform applications in Flutter/Dart + Firebase
+- 2) Cross-platform frontend applications with Flutter/Dart + Firebase
 - 3) Backend applications in API RESTful pattern with NodeJS + Express + Typescript + TypeORM + Relational Databases (SQL)
 - 📧 Contact: daniellealmeidagms@gmail.com
